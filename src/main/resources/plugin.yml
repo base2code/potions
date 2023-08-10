@@ -2,3 +2,8 @@ name: trial-potions
 version: '${project.version}'
 main: de.base2code.potions.Potions
 api-version: '1.19'
+
+commands:
+  potion:
+    description: Potion Command
+    permission: potion.blacklist

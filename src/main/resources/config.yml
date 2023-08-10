@@ -1,0 +1,13 @@
+messages:
+  no-permission: "&cYou don't have permission to do that!"
+  not-found: "&cThe player was not found!"
+
+
+  commands:
+    potion:
+      blacklist:
+        remove: "&aYou have removed &e%player%&a from the blacklist!"
+        add: "&aYou have added &e%player%&a to the blacklist!"
+      help: |
+        &6Potion Command Help
+        &7/potion blacklist <player> &8- &7Adds or removes a player from the blacklist
