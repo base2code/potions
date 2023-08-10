@@ -1,7 +1,10 @@
+#
+
+
+# Messages for the plugin
 messages:
   no-permission: "&cYou don't have permission to do that!"
   not-found: "&cThe player was not found!"
-
 
   commands:
     potion:
